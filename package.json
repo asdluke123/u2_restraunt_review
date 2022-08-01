@@ -1,0 +1,20 @@
+{
+  "name": "u2_restraunt_review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asdluke123/u2_restraunt_review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asdluke123/u2_restraunt_review/issues"
+  },
+  "homepage": "https://github.com/asdluke123/u2_restraunt_review#readme"
+}
